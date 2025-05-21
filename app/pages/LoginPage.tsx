@@ -26,7 +26,7 @@ const LoginPage = ({ onLogin }: LoginPageProps) => {
       if (success) {
         navigate("/parent-dashboard")
       } else {
-        setError("Invalid email or password. Try john@example.com / password123")
+        setError("Invalid email or password. Try sbhosale@dexciss.com / password123")
       }
     } else {
       setError("Institute login is not implemented in this demo.")

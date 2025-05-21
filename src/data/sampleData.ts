@@ -3,9 +3,9 @@ import type { Child, FoodItem, MealPlan, Parent } from "./types"
 export const sampleParents: Parent[] = [
   {
     id: "p1",
-    name: "John Doe",
-    email: "john@example.com",
-    password: "password123",
+    name: "Suraj Bhosale",
+    email: "sbhosale@dexciss.com",
+    password: "dexciss@123",
     children: [],
   },
 ]
@@ -13,17 +13,17 @@ export const sampleParents: Parent[] = [
 export const sampleChildren: Child[] = [
   {
     id: "c1",
-    name: "Emma Doe",
+    name: "Raj Bhosale",
     age: 8,
     school: "Sunshine Elementary",
     floor: "2nd",
     grade: "3rd",
     classroom: "3B",
-    allergies: ["peanuts"],
+    allergies: ["Peanuts","Milk"],
   },
   {
     id: "c2",
-    name: "Liam Doe",
+    name: "Sam Bhosale",
     age: 10,
     school: "Sunshine Elementary",
     floor: "3rd",
