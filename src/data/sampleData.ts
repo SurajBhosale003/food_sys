@@ -60,7 +60,7 @@ export const foodItems: FoodItem[] = [
     name: "Margherita Pizza",
     type: "Pizza",
     description: "Classic cheese pizza with tomato sauce and fresh basil",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://cookingitalians.com/wp-content/uploads/2024/11/Margherita-Pizza.jpg",
     price: 5.99,
     nutrition: {
       calories: 285,
@@ -77,7 +77,7 @@ export const foodItems: FoodItem[] = [
     name: "Caesar Salad",
     type: "Salad",
     description: "Fresh romaine lettuce with Caesar dressing and croutons",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://www.feastingathome.com/wp-content/uploads/2021/10/Caesar-salad_-4.jpg",
     price: 4.5,
     nutrition: {
       calories: 180,
@@ -94,7 +94,7 @@ export const foodItems: FoodItem[] = [
     name: "Chicken Tenders",
     type: "Fried",
     description: "Crispy breaded chicken tenders with dipping sauce",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQp9wUnKGS6usjrkZFUUg7_f04Jcl6tHVt_Pg&s",
     price: 6.5,
     nutrition: {
       calories: 320,
@@ -111,7 +111,7 @@ export const foodItems: FoodItem[] = [
     name: "Baked Mac & Cheese",
     type: "Baked",
     description: "Creamy macaroni and cheese baked with a crispy top",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXiYONWqQcOhloaEoMNp1Hp241h9Et_tWxuw&s",
     price: 5.25,
     nutrition: {
       calories: 350,
@@ -128,7 +128,7 @@ export const foodItems: FoodItem[] = [
     name: "Veggie Wrap",
     type: "Wrap",
     description: "Fresh vegetables and hummus in a whole wheat wrap",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS18wLuh2gULNvsluIyjzSNmB_J9LNZhlfQoQ&s",
     price: 4.75,
     nutrition: {
       calories: 220,
@@ -145,7 +145,7 @@ export const foodItems: FoodItem[] = [
     name: "Fruit Cup",
     type: "Snack",
     description: "Fresh seasonal fruit mix",
-    image: "/placeholder.svg?height=200&width=200",
+    image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRpq6wRuEY_98fTZScrDpULHVLXaxx99ARAPQ&s",
     price: 3.5,
     nutrition: {
       calories: 90,
